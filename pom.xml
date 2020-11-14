@@ -114,7 +114,7 @@
                             <outputDirectory>target/classes/static</outputDirectory>
                             <resources>
                                 <resource>
-                                    <directory>src/frontend/public</directory>
+                                    <directory>src/frontend/build</directory>
                                     <filtering>true</filtering>
                                 </resource>
                             </resources>
